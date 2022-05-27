@@ -1,11 +1,24 @@
 {
   "name": "template-webpack-injector",
   "version": "1.0.0",
-  "description": "",
+  "description": "Wrap an inject js chunks in html-templates",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "keywords": [    
+    "html",
+    "hbs",
+    "webpack",
+    "html-template",    
+    "html-template-injector",    
+    "html-template-webpack-injector",
+    "hbs-webpack-injector",
+    "hbs-injector",
+    "template-injector",
+    "template-webpack-injector",
+    "html-webpack",
+    "hbs-injector",
+    "webpack-plugins" 
+    ],
+  "repository": "",
+  "author": "Bimimot <bimimot@gmail.com> (https://github.com/Bimimot)",
   "license": "ISC"
 }
